@@ -1,5 +1,5 @@
 require "telangana/version"
-
+require "telangana/googlenews"
 module Telangana
-  # Your code goes here...
+  
 end
